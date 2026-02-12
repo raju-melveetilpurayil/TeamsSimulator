@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Raju Melveetilpurayil
+Copyright (c) 2026-present Raju Melveetilpurayil
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,6 +11,22 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+---
+
+⚠ Company Policy Warning:
+
+This software may simulate user activity in operating systems. 
+Use of this software may:
+
+- Violate company IT policies
+- Trigger monitoring systems
+- Put your job at risk
+- Potentially breach acceptable-use agreements
+
+The author does not assume responsibility for any consequences of using this software in a corporate or managed environment. Users are solely responsible for compliance with organizational rules and policies.
+
+---
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
